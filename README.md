@@ -105,7 +105,7 @@ const deep = {
 ## 📊 Player Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats-git-main-akankshs-projects-296d3a31.vercel.app?user=deepraj-07&theme=tokyonight&hide_border=true" alt="Deep's Streak" width="70%" />
+  <img src="https://streak-stats.demolab.com?user=deepraj-07&theme=tokyonight&hide_border=true" alt="Deep's Streak" width="70%" />
 </div>
 
 <img src="assets/fading_line.gif" width="100%" />
