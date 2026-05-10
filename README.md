@@ -220,7 +220,7 @@ const deep = {
 |   Platform    | Progress                    | Rating |
 | :-----------: | --------------------------- | :-----: |
 |  🟡 LeetCode  | 300+ Problems Solved        | Max 1466 |
-|  🔵 CodeChef  | 1000+ Rating                | Max 1205 |
+|  🔵 CodeChef  | 1000+ Problems Solved       | Max 1205 |
 |  🏆 Hackathons | 15+ Participated · IIIT Delhi Finalist · HackArena 2.0 Finalist | ⭐⭐⭐ |
 
 </details>
