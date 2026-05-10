@@ -4,7 +4,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=600&height=70&lines=%E2%9A%A1+Hi%2C+I'm+Deep+Raj;%F0%9F%92%BB+Full+Stack+Developer;%F0%9F%A4%96+Building+AI-Powered+Systems;%E2%98%81%EF%B8%8F+Exploring+Cloud+%26+DevOps;%F0%9F%93%8A+Learning+Data+Analytics;%F0%9F%9A%80+Turning+Ideas+Into+Real+Projects)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=1100&height=70&lines=%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+Aspiring+Software+Engineer;%E2%9A%A1+Full+Stack+Developer;%E2%9A%99%EF%B8%8F+Engineering+Real-World+Solutions;%E2%98%81%EF%B8%8F+Cloud+%26+DevOps+Learner;%F0%9F%A4%96+ML+Enthusiast;%E2%98%95+Turning+Coffee+Into+Code)
 
 **`👨🏻‍💻 Aspiring Software Engineer`** · **`⚡ Full Stack Developer`**  · **`⚙️ Engineering Real-World Solutions`** · **`☁️ Cloud & DevOps Learner`** · **`🤖 ML Enthusiast`** · **`🇮🇳 India`**
 
