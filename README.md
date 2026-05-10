@@ -6,7 +6,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=600&height=70&lines=%E2%9A%A1+Hi%2C+I'm+Deep+Raj;%F0%9F%92%BB+Full+Stack+Developer;%F0%9F%A4%96+Building+AI-Powered+Systems;%E2%98%81%EF%B8%8F+Exploring+Cloud+%26+DevOps;%F0%9F%93%8A+Learning+Data+Analytics;%F0%9F%9A%80+Turning+Ideas+Into+Real+Projects)
 
-**`⚡ Full Stack Developer`** · **`🤖 AI Enthusiast`** · **`☁️ DevOps Learner`** · **`📊 Data Analytics Explorer`** · **`🇮🇳 India`**
+**`👨🏻‍💻 Aspiring Software Engineer`** · **`⚡ Full Stack Developer`**  · **`⚙️ Engineering Real-World Solutions`** · **`☁️ Cloud & DevOps Learner`** · **`🤖 ML Enthusiast`** · **`🇮🇳 India`**
 
   <br>
 
@@ -28,12 +28,12 @@
 
 ```js
 const deep = {
-  pronouns: "he" | "him",
+  pronouns: "he/him",
   location: "Ghaziabad, India 🇮🇳",
-  education: "B.Tech CSE @ KIET Ghaziabad",
-  currentlyBuilding: "AI-powered full-stack apps & civic-tech solutions",
-  learning: ["DSA in Java", "Cloud Computing", "DevOps", "Docker", "CI/CD", "Data Analytics", "Power BI", "Tableau"],
-  askMeAbout: ["Full Stack Dev", "AI Integration", "React", "Node.js", "Cloud & DevOps"],
+  education: "B.Tech CS @ KIET Ghaziabad",
+  currentlyBuilding: "AI-powered full-stack projects & Civic-tech solutions",
+  learning: ["DSA in Java", "DevOps", "Docker", "Machine Learning"],
+  askMeAbout: ["Full Stack Development", "AI Integrated applications", "Cloud & DevOps" , "Power BI & Tableau"],
   funFact: "I debug faster at 3 AM with lofi beats 🎧",
   motto: "Ship it or it doesn't exist 🚀",
 };
@@ -56,26 +56,44 @@ const deep = {
 
 **`🧰 FRAMEWORKS & LIBRARIES`**
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
 **`🗄️ DATABASES & CLOUD`**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+
+**`🤖 AI / ML`**
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
 
 **`📊 DATA & ANALYTICS`**
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+**`🚀 DEPLOYMENT & HOSTING`**
+
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
 
 **`🛠️ TOOLS`**
 
@@ -84,8 +102,12 @@ const deep = {
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-222222?style=flat-square&logo=githubactions&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 
 </div>
 
@@ -94,10 +116,14 @@ const deep = {
 ## 🔌 Link Up &nbsp; <img src="assets/cat_pixel.gif" width="40" />
 
 <p align="center">
+  <a href="mailto:deepraj5915@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/deepraj-07"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/deep-raj27/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:deepraj5915@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.instagram.com/nikhi_illl27?igsh=MXhid3RlZzhqMDk3ZA==">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
   <a href="https://leetcode.com/u/Deep_Raj27/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://maps-to-memories-travel-with-deep.blogspot.com/"><img src="https://img.shields.io/badge/Travel_Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" /></a>
 </p>
 
 <img src="assets/fading_line.gif" width="100%" />
@@ -131,31 +157,32 @@ const deep = {
 ## 🕹️ Quest Log — Click to Expand!
 
 <details>
-<summary>🎯 <b>Main Quest: Full Stack Mastery</b></summary>
+<summary>🎯 <b>Main Quest: Software Engineering Journey</b></summary>
 <br>
 
 | Status | Quest                                        |    XP    |
 | :----: | -------------------------------------------- | :------: |
 |   ✅   | Learn HTML, CSS & JavaScript                 |  ⭐⭐⭐  |
-|   ✅   | Master React & Node.js                       | ⭐⭐⭐⭐ |
-|   ✅   | Build & Deploy Full-Stack Apps               | ⭐⭐⭐⭐ |
-|   ✅   | Work with PostgreSQL & Supabase              |  ⭐⭐⭐  |
-|   🔄   | Master System Design & Scalable Architecture |   ⭐⭐   |
-|   🔄   | Contribute to Major Open Source              |   ⭐⭐   |
+|   ✅   | Build Real-World Full-Stack Projects         | ⭐⭐⭐⭐ |
+|   ✅   | Work with Firebase, Supabase & SQL Databases | ⭐⭐⭐⭐ |
+|   ✅   | Explore AI-Integrated Application            |  ⭐⭐⭐  |
+|   🔄   | Strengthen DSA & Problem Solving in Java     |  ⭐⭐⭐  |
+|   🔄   |  Learn Cloud, DevOps & Docker                |   ⭐⭐   |
 
 </details>
 
 <details>
-<summary>🤖 <b>Side Quest: AI Integration Arc</b></summary>
+<summary>🤖 <b>Side Quest: AI & ML Arc</b></summary>
 <br>
 
-| Status | Quest                                      |    XP    |
-| :----: | ------------------------------------------ | :------: |
-|   ✅   | Build AI-Powered Full-Stack Applications   | ⭐⭐⭐⭐ |
-|   ✅   | Integrate AI into Civic-Tech Solutions     | ⭐⭐⭐⭐ |
-|   ✅   | Work on Agriculture & Disaster AI Projects |  ⭐⭐⭐  |
-|   🔄   | Explore LLM APIs & Prompt Engineering      |   ⭐⭐   |
-|   🔜   | Build end-to-end MLOps Pipeline            |    ⭐    |
+| Status | Quest                                             |    XP    |
+| :----: | ------------------------------------------------- | :------: |
+|   ✅   | Build AI-Powered Civic-Tech Solutions             | ⭐⭐⭐⭐ |
+|   ✅   | Work on Agriculture & Disaster Management Projects| ⭐⭐⭐ |
+|   ✅   | Explore ML Libraries & Computer Vision            | ⭐⭐⭐ |
+|   🔄   | Learn Prompt Engineering & LLM APIs               | ⭐⭐ |
+|   🔄   | Explore Machine Learning Workflows                | ⭐⭐ |
+|   🔜   | Build End-to-End AI Deployment Pipelines          | ⭐ |
 
 </details>
 
@@ -163,23 +190,38 @@ const deep = {
 <summary>☁️ <b>Side Quest: Cloud & DevOps Arc</b></summary>
 <br>
 
-| Status | Quest                              |  XP  |
-| :----: | ---------------------------------- | :--: |
-|   ✅   | AWS Cloud Club Technical Member    | ⭐⭐⭐ |
-|   🔄   | Learn Docker & Containerization    | ⭐⭐  |
-|   🔄   | Set Up CI/CD Pipelines             | ⭐⭐  |
-|   🔜   | Deploy Apps on Cloud Infrastructure |  ⭐  |
+| Status | Quest                                      |   XP   |
+| :----: | ------------------------------------------ | :----: |
+|   ✅   | AWS Cloud Club Technical Member            | ⭐⭐⭐ |
+|   ✅   | Explore GitHub Actions & Workflow Automation | ⭐⭐⭐ |
+|   🔄   | Learn Docker & Containerization            | ⭐⭐ |
+|   🔄   | Work with CI/CD & Deployment Pipelines     | ⭐⭐ |
+|   🔜   | Deploy Scalable Applications on Cloud      | ⭐⭐ |
 
 </details>
 
 <details>
-<summary>⚔️ <b>Side Quest: DSA & Competitive Programming</b></summary>
+<summary>📊 <b>Side Quest: Data & Analytics Arc</b></summary>
 <br>
 
-|   Platform    | Progress                     |
-| :-----------: | ---------------------------- |
-|  🟡 LeetCode  | 270+ Problems Solved         |
-|  🏆 Hackathons | 15+ Participated, IIIT Delhi Finalist |
+| Status | Quest                                        |   XP   |
+| :----: | -------------------------------------------- | :----: |
+|   ✅   | Work with Power BI & Tableau Dashboards      | ⭐⭐⭐ |
+|   ✅   | Explore Data Visualization & Insights        | ⭐⭐⭐ |
+|   🔄   | Learn Advanced Analytics & BI Workflows      | ⭐⭐ |
+|   🔜   | Build Interactive Data Dashboards            | ⭐⭐⭐⭐ |
+
+</details>
+
+<details>
+<summary>⚔️ <b>Side Quest: Algorithmic Thinking</b></summary>
+<br>
+
+|   Platform    | Progress                    | Rating |
+| :-----------: | --------------------------- | :-----: |
+|  🟡 LeetCode  | 300+ Problems Solved        | Max 1466 |
+|  🔵 CodeChef  | 1000+ Rating                | Max 1205 |
+|  🏆 Hackathons | 15+ Participated · IIIT Delhi Finalist · HackArena 2.0 Finalist | ⭐⭐⭐ |
 
 </details>
 
