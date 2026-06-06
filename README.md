@@ -123,7 +123,11 @@ const deep = {
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://leetcode.com/u/Deep_Raj27/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+   <a href="https://www.codechef.com/users/deep_raj27">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
   <a href="https://maps-to-memories-travel-with-deep.blogspot.com/"><img src="https://img.shields.io/badge/Travel_Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" /></a>
+</a>
 </p>
 
 <img src="assets/fading_line.gif" width="100%" />
